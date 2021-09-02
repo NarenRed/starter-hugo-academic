@@ -1,21 +1,14 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget: About
+widget_id: Hello, I'm Narender Reddy, I'm currently a graduate computer science
+  student at the Univeristy of Texas at Arlington.I'm from India.I have three
+  years of work experience prior to my masters and worked in multiple roles in
+  the software industry.I recenlty certifed Scrum Master. My majors include
+  complex software management.My hobbies include playing cricket and spending
+  time with my friends.
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
