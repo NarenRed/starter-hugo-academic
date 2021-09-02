@@ -1,6 +1,6 @@
 ---
 widget: About
-widget_id: Bio
+widget_id: About
 headless: true
 weight: 20
 title: Biography
